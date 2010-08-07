@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Original author of tesseractTrainer.py Catalin Francu 
+[http://groups.google.com/group/tesseract-ocr/browse_thread/thread/c4073cadb2acf820?pli=1 accounted on tesseract-ocr mailing list] she do not support tesseractTrainer.py anymore. For this reason new project was created to maintain this useful script. 
+
+Name was changed to easy distinguish from project [http://www.mushware.com/ Tesseract Trainer].
+
+
+
+
+
+
