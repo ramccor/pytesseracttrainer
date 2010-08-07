@@ -3,7 +3,7 @@
 = Introduction =
 
 Original author of tesseractTrainer.py Catalin Francu 
-[http://groups.google.com/group/tesseract-ocr/browse_thread/thread/c4073cadb2acf820?pli=1 accounted on tesseract-ocr mailing list] she do not support tesseractTrainer.py anymore. For this reason new project was created to maintain this useful script. 
+[http://groups.google.com/group/tesseract-ocr/browse_thread/thread/c4073cadb2acf820?pli=1 announced on tesseract-ocr mailing list] she do not support tesseractTrainer.py anymore. For this reason new project was created to maintain this useful script. 
 
 Name was changed to easy distinguish from project [http://www.mushware.com/ Tesseract Trainer].
 
@@ -14,6 +14,4 @@ New contributors are welcome!
 
  * support for multipage tiff file
  * diff with external text file with visualization of differences in pyTesseractTrainer. For training process it common there is also available source text for training images. This feature would increase significantly productivity if somebody would start to train images and text files from [http://www.pgdp.net/c/ Distributed Proofreaders]
-
-
 
