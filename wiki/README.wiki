@@ -7,8 +7,13 @@ Original author of tesseractTrainer.py Catalin Francu
 
 Name was changed to easy distinguish from project [http://www.mushware.com/ Tesseract Trainer].
 
+New contributors are welcome!
 
 
+= Whishlist =
+
+ * support for multipage tiff file
+ * diff with external text file with visualization of differences in pyTesseractTrainer. For training process it common there is also available source text for training images. This feature would increase significantly productivity if somebody would start to train images and text files from [http://www.pgdp.net/c/ Distributed Proofreaders]
 
 
 
