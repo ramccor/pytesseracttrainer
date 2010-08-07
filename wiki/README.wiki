@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#First information
 
 = Introduction =
 
@@ -7,11 +7,22 @@ Original author of tesseractTrainer.py Catalin Francu
 
 Name was changed to easy distinguish from project [http://www.mushware.com/ Tesseract Trainer].
 
-New contributors are welcome!
+New contributors are welcome! Please have a look to [http://code.google.com/p/pytesseracttrainer/wiki/TODO TODO] for ideas.
+
+= Requirements/dependencies =
+
+  * [http://www.python.org python] (tested with python 2.6)
+  * [http://www.pygtk.org PyGTK] (tested with 2.17)
+  * [http://www.imagemagick.org/ ImageMagick] (identify)
 
 
-= Whishlist =
+= Features =
 
- * support for multipage tiff file
- * diff with external text file with visualization of differences in pyTesseractTrainer. For training process it common there is also available source text for training images. This feature would increase significantly productivity if somebody would start to train images and text files from [http://www.pgdp.net/c/ Distributed Proofreaders]
-
+  * multiplatform support (tested on Linux 64 bit and Windows XP)
+  * visual editor of box file
+  * unicode support (from 1.01)
+  * possibility to define *bold*, _italic_, and underline font per letter
+  * layout of symbol from box file reflect symbols on image
+  * deleting, joining, splitting of symbols/boxes
+  * easy and exact way of adjusting boxes
+  * different image style support (tiff, png, jpeg, bmp, gif)
