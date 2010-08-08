@@ -17,11 +17,12 @@ New contributors are welcome! Please have a look to [http://code.google.com/p/py
 
 = Features =
 
-  * multiplatform support (tested on Linux 64 bit and Windows XP)
   * visual editor of box file
+  * multiplatform support (tested on Linux 64 bit and Windows XP)
   * unicode support (from 1.01)
   * possibility to define *bold*, _italic_, and underline font per letter
   * layout of symbol from box file reflect symbols on image
   * deleting, joining, splitting of symbols/boxes
   * easy and exact way of adjusting boxes
   * different image style support (tiff, png, jpeg, bmp, gif)
+  * open tesseract v3.00 box file (but it save v2.0x box file)
