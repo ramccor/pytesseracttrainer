@@ -1,3 +1,5 @@
+#summary About pyTesseractTrainer
+#labels Featured
 
 = Introduction =
 
