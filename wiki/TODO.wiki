@@ -7,7 +7,7 @@
   * *undo* command
   * *zoom in/out*
   * *toolbar*
-   * *panel for most used symbols*
+   * panel for *most used symbols*
   * *configuration* (menu and user file) for:
    # last used directory
    # last open files
@@ -29,5 +29,5 @@
 
 This ideas are not connected directly to training process.
 
-  * save text to DjVu (see article http://www.ub-filosofie.ro/~solcan/wt/gnu/d/odjv.html Insert OCRed text in DjVu])
+  * save text to DjVu (see article [http://www.ub-filosofie.ro/~solcan/wt/gnu/d/odjv.html Insert OCRed text in DjVu])
   * save to PDF (see [http://code.google.com/p/pytesseracttrainer/issues/detail?id=2 issue 2] - it needs reportlab addon that is not shipped with my Linux :-( )
