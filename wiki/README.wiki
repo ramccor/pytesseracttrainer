@@ -26,5 +26,5 @@ New contributors are welcome! Please have a look to [http://code.google.com/p/py
   * layout of symbol from box file reflect symbols on image
   * deleting, joining, splitting of symbols/boxes
   * easy and exact way of adjusting boxes
-  * different image style support (tiff, png, jpeg, bmp, gif)
+  * support for opening different image formats (tiff, png, jpeg, bmp, gif)
   * open tesseract v3.00 box file (but it save v2.0x box file)
