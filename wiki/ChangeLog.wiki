@@ -1,7 +1,5 @@
-#summary Changelog
+#summary Release Notes
 #labels Featured
-
-Release Notes
 
 == Version 1.02 ==
 _(released on Sep 04, 2010)_
