@@ -6,8 +6,7 @@ Release Notes
 == Version 1.02 ==
 _(released on Sep 04, 2010)_
 
-  * implemented improvements of Mihail Radu Solcan (function: copy of box coordinates in djvMap, htmMap; display of tesseract coordinates)  http://www
-.ub-filosofie.ro/~solcan/wt/gnu/t/tbe.html
+  * implemented improvements of Mihail Radu Solcan (function: copy of box coordinates in djvMap, htmMap; display of tesseract coordinates) http://www.ub-filosofie.ro/~solcan/wt/gnu/t/tbe.html
   * support for argument - to open image after startup (e.g. "pyTesseractTrainer.py test_special.eng.tif")
   * menu item "Commands" is renamed to more standard "Edit"
   * support for saving tesseract 3.0 box file. If you need save file in tesseract 3.0 box file, just change global variable "SAVE_FORMAT" to "2" (instead of "3") on line 52 before starting of pyTesseractTrainer.py
