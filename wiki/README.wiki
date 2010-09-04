@@ -23,8 +23,17 @@ New contributors are welcome! Please have a look to [http://code.google.com/p/py
   * multiplatform support (tested on Linux 64 bit and Windows XP)
   * unicode support (from 1.01)
   * possibility to define *bold*, _italic_, and underline font per letter
-  * layout of symbol from box file reflect symbols on image
+  * layout of symbols from box file try to reflect symbols on image
   * deleting, joining, splitting of symbols/boxes
   * easy and exact way of adjusting boxes
   * support for opening different image formats (tiff, png, jpeg, bmp, gif)
-  * open tesseract v3.00 box file (but it save v2.0x box file)
+  * open and save tesseract v3.00 box file
+  * displaying tesseract coordinate system and (0,0 at the bottom-left) and "image" coordinate system (0,0 at the top-left)
+  * posibility to copy coordinates of box file with shortcut/menu
+  
+= Coordinate system =
+
+Tesseract coordinate system used in the box file has (0,0) at the bottom-left.
+
+http://pytesseracttrainer.googlecode.com/files/coord_example.png
+_Example of coordinate system displayed in pyTesseractTrainer_
