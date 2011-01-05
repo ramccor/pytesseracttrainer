@@ -1,6 +1,11 @@
 #summary Release Notes
 #labels Featured
 
+== Version 1.03 ==
+_(released on Jan 04, 2011)_
+
+  * Fixed displaying RTL chars.
+
 == Version 1.02 ==
 _(released on Sep 04, 2010)_
 
